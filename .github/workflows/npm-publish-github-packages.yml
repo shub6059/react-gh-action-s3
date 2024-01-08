@@ -33,5 +33,5 @@ jobs:
           SOURCE_DIR: build/
           AWS_S3_BUCKET: react-gh-action-s3
           # AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: AKIAZHRQUH2GXSSQBO5P
-          AWS_SECRET_ACCESS_KEY: 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
+          AWS_ACCESS_KEY_ID: 
+          AWS_SECRET_ACCESS_KEY: 
